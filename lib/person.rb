@@ -8,7 +8,7 @@ class Person
   end
   
   def job=(job)
-    @job
+    @job = "Singer"
   end
   def job
     @job
